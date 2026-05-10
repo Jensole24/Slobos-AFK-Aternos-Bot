@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "The 67 kid",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "HowToUseAternos.aternos.me",
     "port": 20031,
-    "version": "",
+    "version": 1.21.11"",
     "try-creative": false
   },
   "position": {
